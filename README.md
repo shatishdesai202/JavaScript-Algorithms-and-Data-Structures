@@ -1,1 +1,3 @@
-<img src="./bigocomplexitychart.jpg">
+# JavaScript-Algorithms-and-Data-Structures
+
+<img src="./bigocomplexitychart.jpg" />
